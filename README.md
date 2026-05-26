@@ -9,7 +9,7 @@
 - 🎓 Passionate about Artificial Intelligence, Software Engineering, and solving real-world problems
 - 💡 Interested in AI Agents, Machine Learning, Web Development, and Automation
 - 🌱 Currently improving my skills in AI systems, cloud technologies, and scalable applications
-- 📫 Contact me: **oualid932@gmail.com**
+- 📫 Contact me: **ooualid932@gmail.com**
 
 ---
 
